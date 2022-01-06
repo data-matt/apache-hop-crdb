@@ -1,0 +1,6 @@
+column_name,fake_data_type,fake_data_topic
+id,Internet,uuid
+city,Address,city
+address,Address,streetAddress
+credit_card,Business,creditCardNumber
+name,Name,fullName
