@@ -167,7 +167,7 @@ to sort on</note>
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>/Users/mgardner/dev/_hop/hop-crdb-examples/generate_fake_data/etl/generate_csv.hpl</filename>
+    <filename>${PARAM_PROJECT_HOME}/etl/generate_csv.hpl</filename>
     <source_transform/>
     <source_output_fields>    </source_output_fields>
     <target_file/>
